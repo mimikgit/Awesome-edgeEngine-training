@@ -1,0 +1,76 @@
+body {
+    
+    font-family: 'Nunito', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensures the body takes up the full viewport height */
+}
+    
+
+
+.header {
+    background-color: #ffffff; /* Dark blue color */
+    color: #ffffff; /* White text color */
+    padding: 15px 0; /* Padding top and bottom */
+    display: flex; /* Flex layout for alignment */
+    align-items: center; /* Center items vertically */
+    justify-content: space-between; /* Space between logo and navigation */
+}
+
+.header .logo {
+    margin-left: 20px; /* Space from the left edge */
+    height: 50px; /* Logo height */
+}
+
+.header .nav {
+    margin-right: 20px; /* Space from the right edge */
+}
+
+.header .nav a {
+    margin: 0 15px; /* Space between links */
+}
+
+a {
+    color: black;
+    margin: 0 15px; /* Space between links */
+    text-decoration: none;
+    font-size: 18px;
+}
+
+a:hover {
+    color: #7bc12e;
+}
+
+
+
+.intro h1, .intro h2, h2 {
+    margin-top: 30px; /* Remove top and bottom margin */
+    margin-bottom: 20px; /* Space between cards */
+}
+
+ul li a {
+    color: #7bc12e;
+    font-size: inherit;
+    margin: 0 0; /* Space between links */
+}
+
+.content-wrapper {
+    max-width: 1200px; /* You can adjust this value to your preference */
+    margin: 0 auto; /* Centers the content */
+    padding: 20 70px; /* Adds padding around the content */
+    flex-grow: 1; /* Allows the content to grow and push the footer down */
+}
+
+/* Additional styling for header, content, and footer if needed */
+
+
+.card {
+    margin-bottom: 100px; /* Space between cards */
+}
+
+.footer {
+    background-color: #2c3e50; /* Dark blue color */
+    color: #ffffff; /* White text color */
+    padding: 15px 0; /* Padding top and bottom */
+    text-align: center; /* Center text */
+}
