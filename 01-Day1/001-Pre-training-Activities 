@@ -1,0 +1,51 @@
+### How to Fork a Repo, Pull Latest Content, Complete Activities, and Share with the Instructor
+
+Follow the step-by-step instructions below to fork a repository, pull the latest content, complete the activities, and share your work with the instructor.
+
+#### Step 1: Fork the Repository
+
+1. Navigate to the training GitHub Repositort [HERE](https://github.com/mimikgit/Awesome-edgeEngine-training)
+2. Click the "Fork" button in the top-right corner of the page.
+3. Select your GitHub account to create the fork.
+
+#### Step 2: Clone the Forked Repository
+
+1. Click the "Code" button in your forked repository.
+2. Copy the URL provided.
+3. Open your command-line interface (CLI) or terminal.
+4. Navigate to the directory where you want to clone the repository.
+5. Run the following command: `git clone [URL]`, replacing `[URL]` with the copied URL.
+
+#### Step 3: Pull the Latest Content
+
+1. Navigate to the cloned repository directory in your CLI or terminal.
+2. Run the following command to fetch the latest updates from the original repository: `git pull upstream master`.
+
+#### Step 4: Complete the Activities
+
+1. Open the repository files in your preferred code editor.
+2. Complete the activities as instructed in the README or activity files.
+3. Save your changes.
+
+#### Step 5: Commit and Push Your Changes
+
+1. Navigate to the repository directory in your CLI or terminal.
+2. Run the following command to stage your changes: `git add .`.
+3. Run the following command to commit your changes: `git commit -m "Completed activities"`.
+4. Run the following command to push your changes to your forked repository: `git push origin master`.
+
+#### Step 6: Share the Repo Link with the Instructor
+
+1. Copy the URL of your forked repository from GitHub.
+2. Open the Slack channel.
+3. Paste the URL and add a message to the instructor, such as "Here's the link to my repository: [URL]."
+4. Press "Enter" to send the message.
+
+#### NOTE
+Please keep your repository up to date with your local content by pushing the updates. 
+---
+
+If you encounter any issues or have questions, please reach out to the instructor. 
+
+© 2023 mimik technology inc. Confidential and Proprietary. All Rights Reserved
+
