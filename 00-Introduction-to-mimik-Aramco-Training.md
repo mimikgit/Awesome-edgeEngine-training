@@ -51,7 +51,7 @@ Before the first day of the training. We suggest that you complete the following
 #### Day 1: Introduction to HEC & the environment setup  (2 hours)
 By the end of Day 1, you will be able to:
 
- - Understand the concepts of Hybrid Edge Cloud & edgeEngine.
+ - Understand the concepts of Hybrid Edge Cloud & edgeEngine. 
 
  - State the goal of the workshop 
 

@@ -1,0 +1,40 @@
+Work individually or with a partner to complete the following user story:
+
+* As a participant, I want to get started with Hybrid Edge Cloud (HEC) and understand how to utilize edgeEngine.
+
+## Acceptance Criteria
+
+* It's done when you have successfully set up and understood the basic concepts of HEC and edgeEngine.
+
+## 📝 Instructions
+
+1. Review the introduction to Hybrid Edge Cloud (HEC) provided in the course material.
+2. Understand the key concepts and components of HEC, including edgeEngine.
+3. Follow the step-by-step guide to set up edgeEngine on your development environment.
+4. Experiment with basic commands or operations related to edgeEngine.
+5. Validate the setup by running a sample project or test provided in the course material.
+
+## 📝 Resources
+
+- [Link to Introduction to HEC](#)
+- [Link to edgeEngine Setup Guide](#)
+- [Link to Sample Project or Test](#)
+
+## 💡 Hints
+
+- Pay attention to any prerequisites or system requirements for setting up edgeEngine.
+- Reach out to your instructor or peers if you encounter any challenges during the setup process.
+
+## 🏆 Bonus
+
+If you have completed this activity, consider the following challenge to further your knowledge:
+
+* Explore advanced features or capabilities of edgeEngine.
+* Document your findings and share them with your peers or instructor.
+
+## 📝 Notes
+
+Getting started with HEC and edgeEngine is a foundational step in understanding edge computing and developing edge-enabled applications.
+
+---
+© 2023 Your Organization. Confidential and Proprietary. All Rights Reserved.
